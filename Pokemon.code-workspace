@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Pokemon",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pokemon"
+	}
+}
